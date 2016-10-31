@@ -1,0 +1,109 @@
+* {
+	font-weight: bold;
+	color: black;
+}
+
+/* Page Content */
+
+#box {
+	background-color: grey;
+	padding: 5px 15px;
+	margin-bottom: 30px;
+}
+
+#box h3 {
+	font-weight: bold;
+}
+
+#box a {
+	
+}
+
+/* Heading */
+
+.page-header {
+	border-bottom: 0px;
+	margin-top: 20px;
+}
+
+#heading {
+	font-weight: bold;
+	margin-top: 0px;
+}
+
+/* Navbar */
+
+.navbar-default {
+	background-color: gray;
+}
+
+nav a {
+	color: black !important;
+}
+
+#navbar {
+	margin-bottom: 0px;
+}
+
+nav {
+	color: black;
+}
+
+#header {
+	border: black 1px solid;
+	position: relative;
+	background-color: grey;
+}
+#header-brand {
+}
+
+/* For XS Devices */
+
+/* Navbar */
+#dropdown-nav a {
+	text-align: center;
+	padding: auto;
+}
+
+#dropdown-nav hr {
+	border-color: black;
+	margin: auto;
+	
+}
+
+#dropdown-nav li {
+	background-color: white;
+}
+
+#dropdown-nav li:hover {
+	background-color: silver;
+}
+
+#dropdown-nav {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#navbar-collapse {
+	border: 0px;
+}
+
+#header button {
+	background-color: gray;
+}
+
+#header button.navbar-toggle.collapsed {
+	border-color: black;
+}
+
+#header button.navbar-toggle {
+	border-color: #ddd
+}
+
+button.navbar-toggle.collapsed .icon-bar {
+	background-color: black;
+}
+
+button.navbar-toggle .icon-bar {
+	background-color: #ddd
+}
